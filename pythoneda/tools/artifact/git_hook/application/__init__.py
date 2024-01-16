@@ -1,3 +1,4 @@
+# vim: set fileencoding=utf-8
 """
 pythoneda/tools/artifact/git_hook/application/__init__.py
 
