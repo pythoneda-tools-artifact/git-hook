@@ -63,9 +63,7 @@ class GitHookApp(PythonEDA):
 
 
 if __name__ == "__main__":
-    asyncio.run(
-        GitHookApp.main("pythoneda.tools.artifact.git_hook.application.GitHookApp")
-    )
+    asyncio.run(GitHookApp.main())
 # vim: syntax=python ts=4 sw=4 sts=4 tw=79 sr et
 # Local Variables:
 # mode: python
